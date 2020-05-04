@@ -37,7 +37,7 @@ Data used in this analysis is taken from [link](https://raw.githubusercontent.co
 Our main objective for data analysis is to get the solution for below mentioned Business question:
 
 1. Which brand of cars is most selling brand depending on user profiles?
-2. which type of cars are more selling?
+2. which body type of cars are more selling?
 3. What are the factors affecting the price of cars?
 
 ## Packages Required
