@@ -72,6 +72,6 @@ Our main objective for data analysis is to get the solution for below mentioned 
 
 **For detailed analysis please check [Notebook](https://github.com/SatyamDG/Udacity_Project_1/blob/master/Udacity_Project_1.ipynb "Notebook")**
 
-**For easy understanding the conclusion in Visual format please refer medium  blog**
+**For easy understanding the conclusion in Visual format please refer [medium  blog](https://medium.com/@gsatyam625/extracting-insights-from-car-sales-data-using-eda-72d341267f22 "medium  blog")**
 
-Feel free to use this repo
+**Feel free to use this repo**
