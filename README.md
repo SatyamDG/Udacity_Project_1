@@ -47,8 +47,8 @@ Our main objective for data analysis is to get the solution for below mentioned 
 `import pandas_profiling`
 `import matplotlib.pyplot as plt`                               
 `import seaborn as sns`                                           
-`%matplotlib inline`
-`sns.set()`
+
+
 
 ## Conclusion
 
